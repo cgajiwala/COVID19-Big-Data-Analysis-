@@ -10,16 +10,16 @@ Johns Hopkins University Center for Systems Science and Engineering (CSSE)
 Kaggle: https://www.kaggle.com/tags/covid19
 
 Data Dictionary:
-Case_Type
-Cases
-Difference
-Date
-Country_Region
-Province_State
-Admin2
-Combined_Key
-FIPS
-Lat
-Long
-Table_Names
+Case_Type,
+Cases,
+Difference,
+Date,
+Country_Region,
+Province_State,
+Admin2,
+Combined_Key,
+FIPS,
+Lat,
+Long,
+Table_Names,
 Prep_Flow_Runtime
