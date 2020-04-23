@@ -2,7 +2,7 @@
 
 Coronavirus disease 2019 (COVID-19) time series listing confirmed cases, reported deaths and reported recoveries. Data is disaggregated by country (and sometimes region). 
 
-This dataset includes time series data tracking the number of people affected by COVID-19 worldwide, including:
+This dataset includes time series data tracking the number of people affected by COVID-19 worldwide.
 
 Sources:
 US CDC: https://www.cdc.gov/coronavirus/2019-ncov/index.html
