@@ -5,7 +5,7 @@ Coronavirus disease 2019 (COVID-19) time series listing confirmed cases, reporte
 This dataset includes time series data tracking the number of people affected by COVID-19 worldwide.
 
 Sources:
-US CDC: https://www.cdc.gov/coronavirus/2019-ncov/index.html
+https://data.world/covid-19-data-resource-hub/covid-19-case-counts
 Johns Hopkins University Center for Systems Science and Engineering (CSSE)
 Kaggle: https://www.kaggle.com/tags/covid19
 
